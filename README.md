@@ -12,6 +12,7 @@ Technologies used:
 * 🌱     I’m currently learning JS fundamentals through Front End Masters, putting a few projects together for my portfolio and React.
 * 💞️     I’m looking to collaborate on any JS projects that will challenge my current set of skills.
 
+
 <a href="https://github.com/robert-s-hogan/Project-Memory-Game"><img src="https://gh-card.dev/repos/robert-s-hogan/Project-Memory-Game.svg?fullname="></a>
 
 <!---
