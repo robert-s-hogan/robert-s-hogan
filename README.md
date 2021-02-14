@@ -7,7 +7,7 @@ I am a Front End Web Developer with industry experience building websites optimi
 Technologies used:
 - Bootstrap, JavaScript, CSS3, CORESense (CMS) 
 
-- :airplane: I’m interested in sites that fly that catch the eye!
+- :airplane:  I’m interested in sites that fly that catch the eye!
 - 🌱 I’m currently learning JS fundamentals, putting a few projects together for my portfolio and React.
 - 💞️ I’m looking to collaborate on any JS projects that will challenge my current set of skills.
 
