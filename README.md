@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Robert
+# 👋 Hi, I’m Robert
 Freelance Web Developer
 - 👀 I’m interested in sites that fly that catch the eye!
 - 🌱 I’m currently learning JS fundamentals, putting a few projects together for my portfolio and React.
