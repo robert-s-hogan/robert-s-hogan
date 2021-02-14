@@ -1,5 +1,6 @@
 # 👋 Hi, I’m Robert
 **Freelance Web Developer**
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 - 👀 I’m interested in sites that fly that catch the eye!
 - 🌱 I’m currently learning JS fundamentals, putting a few projects together for my portfolio and React.
 - 💞️ I’m looking to collaborate on any JS projects that will help improve my skills.
