@@ -1,6 +1,7 @@
 # 👋 Hi, I’m Robert
 **Freelance Web Developer**
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 I am a Front End Web Developer with industry experience building websites optimized for eCommerce. My role is to write and style the front-end components and style the front-end components that meet the requirements of our mocks and fulfill our brand stories. 
 
 Technologies used:
@@ -8,7 +9,7 @@ Technologies used:
 
 - 👀 I’m interested in sites that fly that catch the eye!
 - 🌱 I’m currently learning JS fundamentals, putting a few projects together for my portfolio and React.
-- 💞️ I’m looking to collaborate on any JS projects that will help improve my skills.
+- 💞️ I’m looking to collaborate on any JS projects that will challenge my current set of skills.
 - 📫 How to reach me robert@robertshogan.com or @robert_s_hogan on twitter
 
 <!---
