@@ -1,5 +1,4 @@
 # 👋 Hi, I’m Robert
-**Freelance Web Developer**
 
 ![Profile Image](http://robertshogan.com/assets/img/rhs_profile_image.jpg)
 
