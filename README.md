@@ -8,7 +8,7 @@ Technologies used:
 - Bootstrap, JavaScript, CSS3, TailwindCSS, CORESense (CMS) 
 
 * :bullettrain_front:&nbsp;I’m interested in sites that fly that catch the eye!
-* 🌱&nbsp;I’m currently learning JS fundamentals through Front End Masters, putting a few projects together for my portfolio and React.
+* 🌱&nbsp;I’m currently learning JS fundamentals through Front End Masters, putting a few React and Gatsby projects together for my portfolio.
 * 💞️&nbsp;I’m looking to collaborate on any JS projects that will challenge my current set of skills.
 
 
