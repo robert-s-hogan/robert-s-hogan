@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Robert
 
-![Profile Image](http://robertshogan.com/assets/img/rhs_profile_image.jpg)
+![Profile Image](https://res.cloudinary.com/dmfdjwwgb/image/upload/v1627186370/robertshogan.com/IMG_3114_geujok.jpg)
 
 I am a Front End Web Developer with industry experience building websites optimized for eCommerce. My role is to write and style the front-end components and style the front-end components that meet the requirements of our mocks and fulfill our brand stories. 
 
