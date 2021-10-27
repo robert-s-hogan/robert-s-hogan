@@ -36,4 +36,4 @@
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robert-s-hogan&layout=compact)](https://github.com/robert-s-hogan/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robert-s-hogan&layout=compact)
