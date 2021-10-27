@@ -8,10 +8,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Robert Hogan | Portfolio" width="24px" src="https://res.cloudinary.com/dmfdjwwgb/image/upload/v1635368196/icons/web_icon_white_fx9twb.svg" />](https://roberthogan.dev/)
-<img align="left" alt="Robert Hogan | Twitter" width="24px" src="https://res.cloudinary.com/dmfdjwwgb/image/upload/v1635359714/icons/twitter_logo_tgnxex.svg" />
-<img align="left" alt="Robert Hogan | LinkedIn" width="24px" src="https://res.cloudinary.com/dmfdjwwgb/image/upload/v1635359964/icons/linkedin_z3aqkd.png" />
-<img align="left" alt="Robert Hogan | Email" width="24px" src="https://res.cloudinary.com/dmfdjwwgb/image/upload/v1635359964/icons/email_icon_wlw6vm.svg" />
+[<img align="left" alt="Robert Hogan | Portfolio" width="24px" src="https://res.cloudinary.com/dmfdjwwgb/image/upload/v1635370200/icons/web_icon_black_ltfqyx.svg" />](https://roberthogan.dev/)
+<img align="left" alt="Robert Hogan | Twitter" width="24px" src="https://res.cloudinary.com/dmfdjwwgb/image/upload/v1635360025/icons/twitter_logo_black_ucam83.svg" />
+<img align="left" alt="Robert Hogan | LinkedIn" width="24px" src="https://res.cloudinary.com/dmfdjwwgb/image/upload/v1635359964/icons/linkedin_ii6uug.svg" />
+<img align="left" alt="Robert Hogan | Email" width="24px" src="https://res.cloudinary.com/dmfdjwwgb/image/upload/v1635359963/icons/email_icon_black_hxtghh.svg" />
 
 <br />
 
