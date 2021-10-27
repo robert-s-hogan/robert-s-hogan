@@ -1,10 +1,10 @@
 
 # Hi there, I'm Robert.  I'm a Husband, Father, Developer, and Tutor!!
 
-- 🔭   I just launched my new site: [Portfolio](https://roberthogan.dev/)
-- 🌱   I’m currently learning React, Sanity.io and Remix
+- 🔭   I just launched my new site: [Portfolio](https://roberthogan.dev/ )
+- 🌱   I’m currently learning React, Sanity.io and Remix.  Just a few 🤣
 - 🥅   2021 Goals: Learn the ins-and-outs of React and start building my Fantasy Football App
-- ⚡   Fun fact: I love to fantasy football and gaming 🤣
+- ⚡   Fun fact: I love to play fantasy football and game with my buddies
 
 ### Connect with me:
 
