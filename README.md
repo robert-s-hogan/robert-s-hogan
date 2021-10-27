@@ -31,6 +31,8 @@
 <br />
 <br />
 <br />
+<br />
+<br />
 
 ![Robert Hogan's GitHub stats](https://github-readme-stats.vercel.app/api?username=robert-s-hogan&hide=contribs,prs?count_private=true&theme=noctis_minimus)
 
