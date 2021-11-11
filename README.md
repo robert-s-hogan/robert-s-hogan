@@ -3,7 +3,7 @@
 
 - 🔭   I just launched my new site: [Portfolio](https://roberthogan.dev/ )
 - 🌱   I’m currently learning React, Sanity.io and Remix.  Just a few 🤣
-- 🥅   2021 Goals: Learn the ins-and-outs of React and start building my Fantasy Football App
+- 🥅   2021 Goals: Learn the ins-and-outs of React, finish Google UX Certification and build a JAMStack store
 - ⚡   Fun fact: I love to play fantasy football and game with my buddies
 
 ### Connect with me:
