@@ -2,7 +2,7 @@
 # Hi there, I'm Robert.  I'm a Husband, Father, Developer, and Tutor!!
 
 - 🔭   I just launched my new site: [Portfolio](https://roberthogan.dev/ )
-- 🌱   I’m currently learning Svelte, TailwindCSS and Remix.  Just a few 🤣
+- 🌱   I’m currently learning Svelte, TailwindCSS and brushing up on my data structures.  Just a few 🤣
 - 🥅   2022 Goals: Learn the ins-and-outs of Svelte, blog consistenly, and build a JAMStack store
 - ⚡   Fun fact: I love to play fantasy football and game with my buddies
 
