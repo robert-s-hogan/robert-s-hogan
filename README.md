@@ -8,7 +8,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Robert Hogan | Portfolio" width="24px" src="https://res.cloudinary.com/dmfdjwwgb/image/upload/v1635370200/icons/web_icon_black_ltfqyx.svg" />](https://roberthogan.dev/)]
+[<img align="left" alt="Robert Hogan | Portfolio" width="24px" src="https://res.cloudinary.com/dmfdjwwgb/image/upload/v1635370200/icons/web_icon_black_ltfqyx.svg" />](https://roberthogan.dev/)
 
 [<img align="left" alt="Robert Hogan | Twitter" width="24px" src="https://res.cloudinary.com/dmfdjwwgb/image/upload/v1635360025/icons/twitter_logo_black_ucam83.svg" />](https://twitter.com/robert_s_hogan)
 <img align="left" alt="Robert Hogan | LinkedIn" width="24px" src="https://res.cloudinary.com/dmfdjwwgb/image/upload/v1635359964/icons/linkedin_ii6uug.svg" />
