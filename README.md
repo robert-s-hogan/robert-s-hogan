@@ -17,6 +17,8 @@
 [<img align="left" alt="Robert Hogan | Email" width="48px" src="https://img.icons8.com/color/512/apple-mail.png" />](https://www.robertshogan.com/)
 
 <br />
+<br />
+<br />
 
 ### Languages and Tools:
 
