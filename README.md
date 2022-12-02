@@ -14,7 +14,7 @@
 
 [<img align="left" alt="Robert Hogan | LinkedIn" width="24px" src="https://img.icons8.com/color/512/linkedin-circled.png" />](https://www.linkedin.com/in/robert-s-hogan/)
 
-[<img align="left" alt="Robert Hogan | Email" width="24px" src="https://res.cloudinary.com/dmfdjwwgb/image/upload/v1635359963/icons/email_icon_black_hxtghh.svg" />](https://www.robertshogan.com/)
+[<img align="left" alt="Robert Hogan | Email" width="24px" src="https://img.icons8.com/color/512/apple-mail.png" />](https://www.robertshogan.com/)
 
 <br />
 
