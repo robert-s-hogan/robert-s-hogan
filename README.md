@@ -8,13 +8,13 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Robert Hogan | Portfolio" width="24px" src="https://img.icons8.com/color/512/internet.png" />](https://roberthogan.dev/)
+[<img align="left" alt="Robert Hogan | Portfolio" width="36px" src="https://img.icons8.com/color/512/internet.png" />](https://roberthogan.dev/)
 
-[<img align="left" alt="Robert Hogan | Twitter" width="24px" src="https://img.icons8.com/cute-clipart/512/twitter.png" />](https://twitter.com/robert_s_hogan)
+[<img align="left" alt="Robert Hogan | Twitter" width="36px" src="https://img.icons8.com/cute-clipart/512/twitter.png" />](https://twitter.com/robert_s_hogan)
 
-[<img align="left" alt="Robert Hogan | LinkedIn" width="24px" src="https://img.icons8.com/color/512/linkedin-circled.png" />](https://www.linkedin.com/in/robert-s-hogan/)
+[<img align="left" alt="Robert Hogan | LinkedIn" width="36px" src="https://img.icons8.com/color/512/linkedin-circled.png" />](https://www.linkedin.com/in/robert-s-hogan/)
 
-[<img align="left" alt="Robert Hogan | Email" width="24px" src="https://img.icons8.com/color/512/apple-mail.png" />](https://www.robertshogan.com/)
+[<img align="left" alt="Robert Hogan | Email" width="36px" src="https://img.icons8.com/color/512/apple-mail.png" />](https://www.robertshogan.com/)
 
 <br />
 
