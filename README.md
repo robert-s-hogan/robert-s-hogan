@@ -12,7 +12,7 @@
 
 [<img align="left" alt="Robert Hogan | Twitter" width="24px" src="https://res.cloudinary.com/dmfdjwwgb/image/upload/v1635360025/icons/twitter_logo_black_ucam83.svg" />](https://twitter.com/robert_s_hogan)
 
-[<img align="left" alt="Robert Hogan | LinkedIn" width="24px" src="https://res.cloudinary.com/dmfdjwwgb/image/upload/v1635359964/icons/linkedin_ii6uug.svg" />](https://www.linkedin.com/in/robert-s-hogan/)
+[<img align="left" alt="Robert Hogan | LinkedIn" width="24px" src="https://img.icons8.com/cute-clipart/512/twitter.png" />](https://www.linkedin.com/in/robert-s-hogan/)
 
 [<img align="left" alt="Robert Hogan | Email" width="24px" src="https://res.cloudinary.com/dmfdjwwgb/image/upload/v1635359963/icons/email_icon_black_hxtghh.svg" />](https://www.robertshogan.com/)
 
