@@ -2,8 +2,8 @@
 # Hi there, I'm Robert.  I'm a Husband, Father, Developer, and Tutor!!
 
 - 🔭   I just launched my new blog: [Blog](https://blog.roberthogan.dev/ )
-- 🌱   I’m currently learning Typescript, Nx, and monorepos.  Just a few 🤣
-- 🥅   2023 Goals: Learn the ins-and-outs of of Nx, move my projects to monorepo, finish my Star Wars project, and blog consistenly.
+- 🌱   I’m currently learning Typescript, Nx, and monorepo management.  Just a few 🤣
+- 🥅   2023 Goals: Learn the ins-and-outs of of Nx, move ALL my projects to monorepo, finish my Star Wars project, and blog consistenly.
 - ⚡   Fun fact: I love to play fantasy football and game with my buddies
 
 ### Connect with me:
