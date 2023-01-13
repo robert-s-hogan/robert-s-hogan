@@ -39,15 +39,3 @@ src="https://img.icons8.com/fluency-systems-regular/512/nextjs.png" />
 <img align="left" alt="GitHub" width="44px" src="https://img.icons8.com/plasticine/512/github-squared.png" />
 
 <img align="left" alt="Terminal" width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<br />
-<br />
-<br />
-<br />
-<br />
-
-![Robert Hogan's GitHub stats](https://github-readme-stats.vercel.app/api?username=robert-s-hogan&hide=contribs,prs?count_private=true&theme=noctis_minimus)
-
-<br />
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robert-s-hogan&layout=compact)
