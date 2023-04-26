@@ -23,7 +23,7 @@
 ### Languages and Tools:
 
 <img align="left" alt="nextjs" width="34px" 
-src="https://img.icons8.com/fluency-systems-regular/512/nextjs.png" />
+src="https://tabler-icons.io/static/tabler-icons/icons/brand-nextjs.svg" />
 
 <img align="left" alt="HTML5" width="34px" src="https://tabler-icons.io/static/tabler-icons/icons/brand-html5.svg" />
 
