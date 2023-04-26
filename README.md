@@ -10,7 +10,7 @@
 
 [<img align="left" alt="Robert Hogan | Portfolio" width="50px" src="https://tabler-icons.io/static/tabler-icons/icons/world-www.svg" />](https://roberthogan.dev/)
 
-[<img align="left" alt="Robert Hogan | Twitter" width="50px" src="https://tabler-icons.io/i/brand-twitter" />](https://twitter.com/robert_s_hogan)
+[<img align="left" alt="Robert Hogan | Twitter" width="50px" src="https://tabler-icons.io/static/tabler-icons/icons/brand-twitter-filled.svg" />](https://twitter.com/robert_s_hogan)
 
 [<img align="left" alt="Robert Hogan | LinkedIn" width="50px" src="https://tabler-icons.io/static/tabler-icons/icons/brand-linkedin.svg" />](https://www.linkedin.com/in/robert-s-hogan/)
 
