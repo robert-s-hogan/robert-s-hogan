@@ -37,11 +37,10 @@ src="https://img.icons8.com/fluency-systems-regular/512/nextjs.png" />
 
 <img align="left" alt="TailwindCSS" width="34px" src="https://tabler-icons.io/static/tabler-icons/icons/brand-tailwind.svg" />
 
-<img align="left" alt="Gatsby" width="34px" src="https://tabler-icons.io/static/tabler-icons/icons/brand-html5.svg" />
+<img align="left" alt="API" width="34px" src="https://tabler-icons.io/static/tabler-icons/icons/api.svg" />
 
-<img align="left" alt="GraphQL" width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
+<img align="left" alt="Git" width="34px" src="https://tabler-icons.io/static/tabler-icons/icons/git-merge.svg" />
 
-<img align="left" alt="Git" width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="44px" src="https://img.icons8.com/plasticine/512/github-squared.png" />
+<img align="left" alt="GitHub" width="44px" src="https://tabler-icons.io/static/tabler-icons/icons/brand-github.svg" />
 
-<img align="left" alt="Terminal" width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Terminal" width="34px" src="https://tabler-icons.io/static/tabler-icons/icons/terminal-2.svg" />
