@@ -33,9 +33,7 @@ src="https://img.icons8.com/fluency-systems-regular/512/nextjs.png" />
 
 <img align="left" alt="JavaScript" width="34px" src="https://tabler-icons.io/static/tabler-icons/icons/brand-javascript.svg" />
 
-<img align="left" alt="Svelte" width="34px" src="https://svelte-imgix-implementation.vercel.app/_app/assets/svelte-logo-87df40b8.svg" />
-
-<img align="left" alt="React" width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="React" width="34px" src="https://tabler-icons.io/static/tabler-icons/icons/brand-react.svg" />
 
 <img align="left" alt="TailwindCSS" width="34px" src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.79614a5f61617ba49a0891494521226b.svg" />
 
