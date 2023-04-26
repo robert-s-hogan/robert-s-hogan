@@ -41,6 +41,6 @@ src="https://img.icons8.com/fluency-systems-regular/512/nextjs.png" />
 
 <img align="left" alt="Git" width="34px" src="https://tabler-icons.io/static/tabler-icons/icons/git-merge.svg" />
 
-<img align="left" alt="GitHub" width="44px" src="https://tabler-icons.io/static/tabler-icons/icons/brand-github.svg" />
+<img align="left" alt="GitHub" width="34px" src="https://tabler-icons.io/static/tabler-icons/icons/brand-github.svg" />
 
 <img align="left" alt="Terminal" width="34px" src="https://tabler-icons.io/static/tabler-icons/icons/terminal-2.svg" />
