@@ -35,7 +35,7 @@ src="https://img.icons8.com/fluency-systems-regular/512/nextjs.png" />
 
 <img align="left" alt="React" width="34px" src="https://tabler-icons.io/static/tabler-icons/icons/brand-react.svg" />
 
-<img align="left" alt="TailwindCSS" width="34px" src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.79614a5f61617ba49a0891494521226b.svg" />
+<img align="left" alt="TailwindCSS" width="34px" src="https://tabler-icons.io/static/tabler-icons/icons/brand-tailwind.svg" />
 
 <img align="left" alt="Gatsby" width="34px" src="https://tabler-icons.io/static/tabler-icons/icons/brand-html5.svg" />
 
