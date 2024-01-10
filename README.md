@@ -11,7 +11,7 @@ Welcome to my GitHub! I'm a dedicated Husband, Father, Developer, and Tutor with
 ### Connect with Me:
 
 <!-- Email, LinkedIn and Portfolio(layout) -->
-<a href="mailto:robert@robertshogan.com"><img src="https://github.com/robert-s-hogan/hosted-icons/blob/main/feather-icons/inbox.svg" alt="Email" width="50px" style="margin-bottom: -15px;"></a><a href="https://www.linkedin.com/in/in/robert-s-hogan)"><img src="https://github.com/robert-s-hogan/hosted-icons/blob/main/simple-icons/linkedin.svg" alt="LinkedIn" width="50px" style="margin-bottom: -15px;"></a><a href="https://www.roberthogan.dev"><img src="https://github.com/robert-s-hogan/hosted-icons/blob/main/feather-icons/layout.svg" alt="Terminal" width="50px" style="margin-bottom: -15px;"></a>
+<a href="mailto:robert@robertshogan.com"><img src="https://github.com/robert-s-hogan/hosted-icons/blob/main/feather-icons/inbox.svg" alt="Email" width="50px" style="margin-bottom: -15px;"></a><a href="https://www.linkedin.com/in/in/robert-s-hogan" target="_blank"><img src="https://github.com/robert-s-hogan/hosted-icons/blob/main/simple-icons/linkedin.svg" alt="LinkedIn" width="50px" style="margin-bottom: -15px;"></a><a href="https://www.roberthogan.dev" target="_blank"><img src="https://github.com/robert-s-hogan/hosted-icons/blob/main/feather-icons/layout.svg" alt="Terminal" width="50px" style="margin-bottom: -15px;"></a>
 
 ### Languages and Tools:
 <!-- Core Web Technologies -->
