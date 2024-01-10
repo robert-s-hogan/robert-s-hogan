@@ -6,16 +6,22 @@
 - 🥅   2023 Goals: Learn the ins-and-outs of of Nx, move ALL my projects to monorepo, finish my Star Wars project, and blog consistenly.
 - ⚡   Fun fact: I love to play fantasy football and game with my buddies
 
-### Connect with me:
+### Connect with Me:
 
-[<img align="left" alt="Robert Hogan | Portfolio" width="50px" src="https://tabler-icons.io/static/tabler-icons/icons/world-www.svg" />](https://roberthogan.dev/)
+<!-- Email -->
+<a href="mailto:your-email@example.com">
+    <img src="https://github.com/robert-s-hogan/hosted-icons/blob/main/feather-icons/inbox.svg" alt="Email" width="50px" style="margin-bottom: -15px;">
+</a>&nbsp;
 
-[<img align="left" alt="Robert Hogan | Twitter" width="50px" color="#1DA1F2" src="https://tabler-icons.io/static/tabler-icons/icons/brand-twitter-filled.svg" />](https://twitter.com/robert_s_hogan)
+<!-- LinkedIn -->
+<a href="https://www.linkedin.com/in/your-linkedin-profile">
+    <img src="https://github.com/robert-s-hogan/hosted-icons/blob/main/simple-icons/linkedin.svg" alt="LinkedIn" width="50px" style="margin-bottom: -15px;">
+</a>&nbsp;
 
-
-[<img align="left" alt="Robert Hogan | LinkedIn" width="50px" src="https://tabler-icons.io/static/tabler-icons/icons/brand-linkedin.svg" />](https://www.linkedin.com/in/robert-s-hogan/)
-
-[<img align="left" alt="Robert Hogan | Email" width="50px" src="https://tabler-icons.io/static/tabler-icons/icons/mail.svg" />](https://www.robertshogan.com/)
+<!-- Layout -->
+<a href="your-blog-or-portfolio-url">
+    <img src="https://github.com/robert-s-hogan/hosted-icons/blob/main/feather-icons/layout.svg" alt="Terminal" width="50px" style="margin-bottom: -15px;">
+</a>
 
 <br />
 <br />
