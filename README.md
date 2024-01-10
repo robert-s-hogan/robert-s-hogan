@@ -2,10 +2,11 @@
 
 Welcome to my GitHub! I'm a dedicated Husband, Father, Developer, and Tutor with a keen interest in integrating AI into web development. As a front-end developer with a penchant for exploring new technologies, I'm currently delving into the realms of AI, aiming to blend it seamlessly into my web projects. My journey is also leading me towards becoming an AI Engineer, where I aspire to build intelligent, user-centric applications.
 
-- 🔭 Recently launched my blog: [Blog](https://www.roberthogan.dev/blog), where I share insights on web development and my AI learning journey.
-- 🌱 Currently learning TypeScript, Nx, and monorepo management, while also exploring AI frameworks and tools.
-- 🥅 2023 Goals: Master Nx, transition all my projects to monorepo, complete my Star Wars themed project, consistently blog about my AI and web development experiences, and make significant strides in AI engineering.
-- ⚡ Fun fact: When I'm not coding, I love playing fantasy football and gaming with friends.
+- 🔭 Diving deep into probability and statistics to better understand large language models and their applications in AI.
+- 🌱 Currently learning probability and statistics tailored for understanding large language models.
+- 🥅 2024 Goals: Build a ChatGPT store, become an expert in AI engineering, stay abreast of the latest developments in AI, and incorporate AI APIs into my projects.
+- ⚡ Fun fact: Outside of coding, I'm an avid fan of fantasy football and enjoy gaming sessions with friends.
+
 
 ### Connect with Me:
 
