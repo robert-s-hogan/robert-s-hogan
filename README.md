@@ -9,8 +9,7 @@
 ### Connect with Me:
 
 <!-- Email, LinkedIn and Portfolio(layout) -->
-<a href="mailto:your-email@example.com"><img src="https://github.com/robert-s-hogan/hosted-icons/blob/main/feather-icons/inbox.svg" alt="Email" width="50px" style="margin-bottom: -15px;"></a><a href="https://www.linkedin.com/in/your-linkedin-profile"><img src="https://github.com/robert-s-hogan/hosted-icons/blob/main/simple-icons/linkedin.svg" alt="LinkedIn" width="50px" style="margin-bottom: -15px;">
-</a><a href="your-blog-or-portfolio-url"><img src="https://github.com/robert-s-hogan/hosted-icons/blob/main/feather-icons/layout.svg" alt="Terminal" width="50px" style="margin-bottom: -15px;"></a>
+<a href="mailto:your-email@example.com"><img src="https://github.com/robert-s-hogan/hosted-icons/blob/main/feather-icons/inbox.svg" alt="Email" width="50px" style="margin-bottom: -15px;"></a><a href="https://www.linkedin.com/in/your-linkedin-profile"><img src="https://github.com/robert-s-hogan/hosted-icons/blob/main/simple-icons/linkedin.svg" alt="LinkedIn" width="50px" style="margin-bottom: -15px;"></a><a href="your-blog-or-portfolio-url"><img src="https://github.com/robert-s-hogan/hosted-icons/blob/main/feather-icons/layout.svg" alt="Terminal" width="50px" style="margin-bottom: -15px;"></a>
 
 <br />
 
