@@ -1,10 +1,11 @@
+# Hi there, I'm Robert - A Passionate Developer at the Intersection of Web and AI
 
-# Hi there, I'm Robert.  I'm a Husband, Father, Developer, and Tutor!!
+Welcome to my GitHub! I'm a dedicated Husband, Father, Developer, and Tutor with a keen interest in integrating AI into web development. As a front-end developer with a penchant for exploring new technologies, I'm currently delving into the realms of AI, aiming to blend it seamlessly into my web projects. My journey is also leading me towards becoming an AI Engineer, where I aspire to build intelligent, user-centric applications.
 
-- 🔭   I just launched my new blog: [Blog](https://www.roberthogan.dev/blog)
-- 🌱   I’m currently learning Typescript, Nx, and monorepo management.  Just a few 🤣
-- 🥅   2023 Goals: Learn the ins-and-outs of of Nx, move ALL my projects to monorepo, finish my Star Wars project, and blog consistenly.
-- ⚡   Fun fact: I love to play fantasy football and game with my buddies
+- 🔭 Recently launched my blog: [Blog](https://www.roberthogan.dev/blog), where I share insights on web development and my AI learning journey.
+- 🌱 Currently learning TypeScript, Nx, and monorepo management, while also exploring AI frameworks and tools.
+- 🥅 2023 Goals: Master Nx, transition all my projects to monorepo, complete my Star Wars themed project, consistently blog about my AI and web development experiences, and make significant strides in AI engineering.
+- ⚡ Fun fact: When I'm not coding, I love playing fantasy football and gaming with friends.
 
 ### Connect with Me:
 
