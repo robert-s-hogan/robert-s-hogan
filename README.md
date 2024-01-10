@@ -11,12 +11,12 @@
 <!-- Email -->
 <a href="mailto:your-email@example.com">
     <img src="https://github.com/robert-s-hogan/hosted-icons/blob/main/feather-icons/inbox.svg" alt="Email" width="50px" style="margin-bottom: -15px;">
-</a>&nbsp;
+</a>
 
 <!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/your-linkedin-profile">
     <img src="https://github.com/robert-s-hogan/hosted-icons/blob/main/simple-icons/linkedin.svg" alt="LinkedIn" width="50px" style="margin-bottom: -15px;">
-</a>&nbsp;
+</a>
 
 <!-- Layout -->
 <a href="your-blog-or-portfolio-url">
