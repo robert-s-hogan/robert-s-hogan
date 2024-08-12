@@ -1,6 +1,6 @@
 # Hi there, I'm Robert - A Passionate Developer at the Intersection of Web and AI
 
-Welcome to my GitHub! I'm a dedicated Husband, Father, Developer, and Tutor with a keen interest in integrating AI into web development. As a front-end developer with a penchant for exploring new technologies, I'm currently delving into the realms of AI, aiming to blend it seamlessly into my web projects. I am journaling my journey [blog](https://www.roberthogan.dev) is also leading me towards becoming an AI Engineer, where I aspire to build intelligent, user-centric applications. 
+Welcome to my GitHub! I'm a dedicated Husband, Father, Developer, and Tutor with a keen interest in integrating AI into web development. As a front-end developer with a penchant for exploring new technologies, I'm currently delving into the realms of AI, aiming to blend it seamlessly into my web projects.
 
 - 🔭 Diving deep into probability and statistics to better understand large language models and their applications in AI.
 - 🌱 Currently learning probability and statistics tailored for understanding large language models.
