@@ -4,7 +4,7 @@ Welcome to my GitHub! I'm a dedicated Husband, Father, Developer, and Tutor with
 
 - 🔭 Diving deep into probability and statistics to better understand large language models and their applications in AI.
 - 🌱 Currently learning probability and statistics tailored for understanding large language models.
-- 🥅 2024 Goals: Earn Harvard's AI with Python course certificate, become an expert in AI engineering, stay abreast of the latest developments in AI, and incorporate AI APIs into my projects.
+- 🥅 Goals: Work towards Full-Stack Certificate, become an expert in AI engineering, stay abreast of the latest developments in AI, and incorporate AI APIs into my projects.
 - ⚡ Fun fact: Outside of coding, I'm an avid fan of fantasy football and enjoy gaming sessions with friends.
 
 
